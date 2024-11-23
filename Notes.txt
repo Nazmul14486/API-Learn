@@ -1,0 +1,7 @@
+JSON Visualizer to for json files
+
+js -> json
+const jsonData = JSON.stringify(data);
+
+json-> json
+const data = JSON.parse(jsonData)
